@@ -1,0 +1,7 @@
+suprayectiva=sobreyectiva 
+p(dom(f))>=p(rec(f))
+y 
+f(a)=f(b)
+
+En el comienzo una colonia de bacterias estaba construida por 3000 organismos, al segundo año existian 10000, si el crecimiento es exponencial
+¿cuantas habra en el 7mo año?
